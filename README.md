@@ -20,21 +20,17 @@
                                 <li> <a href="Servicios.html">Servicios </a> </li>
                                 <li> <a href="Portafolio.html">Portafolio</a> </li>
                                 <li> <a href="Contacto.html">Contactos</a> </li>
-
                             </ul>
-                        </Nav>
-
-                    <!--iconos de menu-->
+			</Nav>   
+			<!--iconos de menu-->
                         <div id="icono-nav">
                             <i></i>
                         </div>
-                        
                         <!--icono de redes-->
                         <div class="redes">
                             <a href="#">Youtube<i></i></a>
                             <a href="#">facebook<i></i></a>
                             <a href="#">instagram<i></i></a>
-
                         </div>
                 </div>
             </header>
